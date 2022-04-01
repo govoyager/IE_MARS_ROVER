@@ -1,4 +1,4 @@
-# IE_MARS_ROVER
+# [IE](https://ie.nitk.ac.in/)_MARS_ROVER
 # (Mars Rover based on ROS)
 
 ![orykrover assembly](https://github.com/govoyager/IE_MARS_ROVER/blob/main/mars%20rover%201.png)
@@ -13,3 +13,5 @@ First you have to install [Ubuntu 20.04](http://www.releases.ubuntu.com/20.04/) 
 Then after installing both [Ubuntu 20.04](http://www.releases.ubuntu.com/20.04/) and [ROS noetic](http://wiki.ros.org/noetic) we can try running a sample file in [Gazebo](http://gazebosim.org/). 
 
 Now we are finished with the installation part.
+
+## 
