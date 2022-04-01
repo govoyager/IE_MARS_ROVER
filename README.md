@@ -1,5 +1,5 @@
 # IE_MARS_ROVER
-# (A Mars Rover based on ROS)
+# (Mars Rover based on ROS)
 
 ![orykrover assembly](https://github.com/govoyager/IE_MARS_ROVER/blob/main/mars%20rover%201.png)
 
