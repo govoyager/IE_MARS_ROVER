@@ -8,4 +8,8 @@ The software runs only on [ROS noetic](http://wiki.ros.org/noetic) and [Ubuntu 2
 
 ## Installation process
 
-First you have to install [ROS noetic](http://wiki.ros.org/noetic) and
+First you have to install [Ubuntu 20.04](http://www.releases.ubuntu.com/20.04/) either on a virtual machine or else you can also duel boot. Then after the installation of Ubuntu 20.04 we need to follow the instructions given in [ROS noetic](http://wiki.ros.org/noetic) website and finish our installation.
+
+Then after installing both [Ubuntu 20.04](http://www.releases.ubuntu.com/20.04/) and [ROS noetic](http://wiki.ros.org/noetic) we can try running a sample file in [Gazebo](http://gazebosim.org/). 
+
+Now we are finished with the installation part.
