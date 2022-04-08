@@ -14,4 +14,7 @@ Then after installing both [Ubuntu 20.04](http://www.releases.ubuntu.com/20.04/)
 
 Now we are finished with the installation part.
 
-## 
+## About
+
+A IE SIGHT rover is a humungous project developed to explore the Martian surface to perform various activities and tasks such as sample collection ,search for life ,study of terrain and weather etc. 
+Research has been done on various different rover designs and comparisons will be made between different designs for different parts of the rover .A basic design has been made and its working will be studied .The designs were then be simulated to understand the motion of the rover . Various detectors has been used for the rover to detect the environment, be able to detect obstacles and move across rough terrains. Although only a conceptual design, our presentation summarizes of all required design parameters for future rover development.
